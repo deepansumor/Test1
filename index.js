@@ -13,3 +13,5 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+// sudo chmod -R a+rwx /var/www/html
